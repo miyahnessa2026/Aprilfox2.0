@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/miyahnessa2026/Aprilfox2.0/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/miyahnessa2026/Aprilfox2.0/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/miyahnessa2026/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/miyahnessa2026/post-install-config)
   - 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/miyahnessa2026/Aprilfox2.0/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/miyahnessa2026/configure-ad)
   - 
 <h2>🤳Connect with me:</h2>
 
