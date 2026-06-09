@@ -1,4 +1,4 @@
-<h1>Hi, I'm April, an <a href="https://linkedin.com/in/aprilfox">IT Support Specialist/ Professional 
+<h1>Hi, I'm April Fox, an <a href="https://linkedin.com/in/aprilfox">IT Support Specialist/ Professional 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
